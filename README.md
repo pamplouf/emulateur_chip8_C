@@ -1,7 +1,7 @@
 # Chip8_emulator_C
 Un emulateur de chip8 codé en C, avec SDL2, commenté en français.
 
-![Brick](brick_chip8.gif "brick")
+![Brix](brix_chip8.gif "brix")
 
 Le chip8 est un interpreteur d'instructions, développé par par Joseph Weisbecker en 1977, originellement pour le microordinateur COSMAC VIP. Son but etait de simplifier l'ecriture de programmes, en permettant d'utiliser des instructions hexadécimales, au lieu du language machine du processeur du VIP. Il fut plus tard répendu sur des ordinateurs plus récents comme le DREAM 6800.
 
