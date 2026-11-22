@@ -1,0 +1,5 @@
+.vscode/
+
+roms/*
+
+!roms/.gitkeep
